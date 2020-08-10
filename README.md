@@ -38,7 +38,7 @@ Shows the lint errors<br>
 - All distances must be given according to initial point of neighbourhoods
 - Initial point of neighbourhoods must be always at the most east part.
 
-##   Calculations :
+###   Calculations :
 
 - Program is written according to the degree between apartment and neighbour buildings. By calculating distance and height difference, degree calculated from tangent value( 
 
