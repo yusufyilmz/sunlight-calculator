@@ -42,15 +42,15 @@ Shows the lint errors<br>
 
 - Program is written according to the degree between apartment and neighbour buildings. By calculating distance and height difference, degree calculated from tangent value( 
 
-+ degree = arctan(height(distance)) 
+    +   degree = arctan(height(distance)) 
+
+- On the east and west side, i get the maximum of this degree.
 
 - From degree time is calculated by percentage of total hours between sunrise and sunset.
 
-+ time = degree * ( sunrise time - sunset time) / 180
-
-+ Sun start time =  sunrise time + time
-
-+ Sun end time =  sunSet time - time
+    +   time = degree * ( sunrise time - sunset time) / 180
+        Sun start time =  sunrise time + time
+        Sun end time =  sunSet time - time
 
 
 ##   API :
